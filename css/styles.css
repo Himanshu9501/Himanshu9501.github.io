@@ -284,6 +284,24 @@ section[data-aos] {
   }
 }
 
+.top-contact {
+  background-color: var(--bg-secondary);
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.top-contact a {
+  color: var(--accent);
+  text-decoration: none;
+  margin: 0 0.3rem;
+}
+
+.top-contact a:hover {
+  color: var(--accent-hover);
+}
+
 /* ---------- Accessibility ---------- */
 @media (prefers-reduced-motion: reduce) {
   * {

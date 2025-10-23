@@ -14,7 +14,7 @@ I enjoy crafting applications, dashboards, and web tools that bring data to life
 
 This repository hosts my personal portfolio, deployed on GitHub Pages:
 
-**Live Demo:** [https://www.Himanshu9501.github.io](https://www.Himanshu9501.github.io)  
+**Live Demo:** [https://www.Himanshu9501.github.io](https://www.himanshu9501.github.io)  
 
 ---
 

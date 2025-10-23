@@ -14,7 +14,7 @@ I enjoy crafting applications, dashboards, and web tools that bring data to life
 
 This repository hosts my personal portfolio, deployed on GitHub Pages:
 
-**Live Demo:** [https://www.Himanshu9501.github.io](https://www.Himanshu9501.github.io)  
+**Live Demo:** [https://www.Himanshu9501.github.io](https://www.himanshu9501.github.io/)  
 
 ---
 
@@ -65,5 +65,3 @@ Some highlighted projects showcased on my portfolio:
 - **GitHub:** [@Himanshu9501](https://github.com/Himanshu9501)  
 - **Resume:** [View/Download PDF](https://github.com/Himanshu9501/Himanshu9501.github.io/blob/main/assets/HimanshuResume.pdf)
 
-- **Project Cards:** Interactive hover effects & GitHub links  
-- **Resume Button:** Direct PDF access

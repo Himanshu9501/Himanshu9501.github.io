@@ -21,11 +21,16 @@ This repository hosts my personal portfolio, deployed on GitHub Pages:
 
 **Live Demo:** [https://www.Himanshu9501.github.io](https://www.Himanshu9501.github.io)  
 
-![Hero Section](https://media.giphy.com/media/3o7aD6x2qUOrN3oqYQ/giphy.gif)
+## 🎬 Features in Action
 
-![Project Cards](https://media.giphy.com/media/l0HlQ7LRalWtPjG1C/giphy.gif)
+### 🌊 Hero Section Animation
+![Hero Section](assets/gifs/hero.gif)
 
-![Resume Button](https://media.giphy.com/media/xT1R9ZqC2HkEmZ0KVm/giphy.gif)
+### 🖼️ Project Cards Hover Effect
+![Project Cards Hover Effect](assets/gifs/projects.gif)
+
+### 📥 Resume Button
+![Resume Button](assets/gifs/resume.gif)
 
 ---
 

@@ -1,7 +1,5 @@
 # Himanshu | Portfolio Website
 
-[![Portfolio Website](https://www.Himanshu9501.github.io)
-
 ---
 
 ## About Me
@@ -17,6 +15,8 @@ I enjoy crafting applications, dashboards, and web tools that bring data to life
 This repository hosts my personal portfolio, deployed on GitHub Pages:
 
 **Live Demo:** [https://www.Himanshu9501.github.io](https://www.Himanshu9501.github.io)  
+
+---
 
 ## 🎬 Features in Action
 
@@ -72,7 +72,7 @@ Some highlighted projects showcased on my portfolio:
 
 ---
 
-##  Contact
+## Contact
 
 - **Email:** [himanshu.lal9501@gmail.com](mailto:himanshu.lal9501@gmail.com)  
 - **GitHub:** [@Himanshu9501](https://github.com/Himanshu9501)  
@@ -87,5 +87,3 @@ Some highlighted projects showcased on my portfolio:
 - **Dark Theme:** Elegant dark UI with responsive design  
 - **Project Cards:** Interactive hover effects & GitHub links  
 - **Resume Button:** Direct PDF access
-```markdown
-![Hero Section](assets/gifs/hero.gif)

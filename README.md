@@ -1,9 +1,6 @@
 # Himanshu | Portfolio Website
 
-[![GitHub followers](https://img.shields.io/github/followers/Himanshu9501?label=Follow&style=social)](https://github.com/Himanshu9501)  
-[![Top Language](https://img.shields.io/github/languages/top/Himanshu9501)](https://github.com/Himanshu9501?tab=repositories)  
-[![Portfolio Size](https://img.shields.io/github/repo-size/Himanshu9501/Himanshu9501.github.io)](https://github.com/Himanshu9501)  
-[![Portfolio Website](https://img.shields.io/badge/Portfolio-Website-blue)](https://www.Himanshu9501.github.io)
+[![Portfolio Website](https://www.Himanshu9501.github.io)
 
 ---
 

@@ -24,8 +24,6 @@ Here’s a visual representation of my skill integration:
 
 ![Skill Integration](assets/Skill-Quotient/intg.svg)
 
-*“Data” outside the integral, upper limit: Scientist, lower limit: Analyst, integrand: Tech × dTech.*
-
 ---
 
 ## Skills

@@ -18,14 +18,6 @@ This repository hosts my personal portfolio, deployed on GitHub Pages:
 
 ---
 
-## 💡 My Skill Quotient
-
-Here’s a visual representation of my skill integration:
-
-![Skill Integration](assets/Skill-Quotient/intg.svg)
-
----
-
 ## Skills
 
 **Data Analysis**  

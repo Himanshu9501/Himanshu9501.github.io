@@ -52,6 +52,9 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
+.white{
+   filter: invert(99%) sepia(2%) saturate(4%) hue-rotate(282deg) brightness(105%) contrast(100%);
+}
 .navbar .container {
   display: flex;
   justify-content: space-between;

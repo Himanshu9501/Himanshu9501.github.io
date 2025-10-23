@@ -14,20 +14,17 @@ I enjoy crafting applications, dashboards, and web tools that bring data to life
 
 This repository hosts my personal portfolio, deployed on GitHub Pages:
 
-**Live Demo:** [Portfolio Website](https://himanshu9501.github.io/)  
+**Live Demo:** [https://www.Himanshu9501.github.io](https://www.Himanshu9501.github.io)  
 
 ---
 
-## 🎬 Features in Action
+## 💡 My Skill Quotient
 
-### 🌊 Hero Section Animation
-![Hero Section](assets/gifs/hero.gif)
+Here’s a visual representation of my skill integration:
 
-### 🖼️ Project Cards Hover Effect
-![Project Cards Hover Effect](assets/gifs/projects.gif)
+![Skill Integration](assets/Skill-Quotient/intg.svg)
 
-### 📥 Resume Button
-![Resume Button](assets/gifs/resume.gif)
+*“Data” outside the integral, upper limit: Scientist, lower limit: Analyst, integrand: Tech × dTech.*
 
 ---
 
@@ -78,12 +75,5 @@ Some highlighted projects showcased on my portfolio:
 - **GitHub:** [@Himanshu9501](https://github.com/Himanshu9501)  
 - **Resume:** [View/Download PDF](https://github.com/Himanshu9501/Himanshu9501.github.io/blob/main/assets/HimanshuResume.pdf)
 
----
-
-## 🌟 Features & Animations
-
-- **Hero Section:** Typing effect via Typed.js & waving hand animation with GSAP  
-- **Scroll Animations:** Smooth entry transitions via AOS  
-- **Dark Theme:** Elegant dark UI with responsive design  
 - **Project Cards:** Interactive hover effects & GitHub links  
 - **Resume Button:** Direct PDF access

@@ -101,8 +101,51 @@ body {
   border-bottom: 1px solid var(--border);
 }
 
-.white{
-   filter: invert(99%) sepia(2%) saturate(4%) hue-rotate(282deg) brightness(105%) contrast(100%);
+/* Skills Section Layout */
+.flex-split {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.skill-text {
+  flex: 1 1 50%;
+  min-width: 240px;
+}
+
+.skill-svg {
+  flex: 0 1 220px;
+  text-align: center;
+}
+
+.skill-svg img {
+  width: 100%;
+  height: auto;
+  transition: transform 0.3s ease;
+}
+
+.skill-svg img:hover {
+  transform: scale(1.05);
+}
+
+.white {
+  filter: invert(99%) sepia(2%) saturate(4%) hue-rotate(282deg) brightness(105%) contrast(100%);
+}
+
+/* Responsive Behavior */
+@media (max-width: 768px) {
+  .flex-split {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .skill-svg {
+    width: 100%;
+    text-align: left;
+    margin-top: 1rem;
+  }
 }
 .navbar .container {
   display: flex;

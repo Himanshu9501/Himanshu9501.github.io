@@ -62,14 +62,41 @@
 
     <!-- ====== About Section ====== -->
     <section id="about" class="about" data-aos="fade-right">
-      <div class="container">
-        <h2>About Me</h2>
-        <p>
-          I'm a Data Scientist and Analyst passionate about blending <strong>data analytics</strong>, <strong>web development</strong>, <strong>data science</strong> 
-          to buildtools that make insights more accessible. I enjoy experimenting with data, analytics dashboards, ML Algos, and interactive UIs.
-        </p>
+      <div class="container" style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem;">
+        <!-- Text Content -->
+        <div style="flex: 1; min-width: 280px;">
+          <h2>About Me</h2>
+          <p>
+            I'm a Data Scientist and Analyst passionate about blending <strong>data analytics</strong>, <strong>web development</strong>, and <strong>data science</strong> 
+            to build tools that make insights more accessible. I enjoy experimenting with data, analytics dashboards, ML algorithms, and interactive UIs.
+          </p>
+        </div>
+    
+        <!-- SVG Skill Integration -->
+        <div style="flex: 1; min-width: 280px; max-width: 400px;">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="100%" height="auto">
+            <!-- Background rectangle for visibility in dark/light mode -->
+            <rect width="100%" height="100%" fill="#f5f5f5"/>
+    
+            <!-- "Data" text outside -->
+            <text x="20" y="40" font-size="24" font-family="Arial" fill="#0D3B66">Data</text>
+    
+            <!-- Integral symbol -->
+            <path d="M50 150 C70 50, 330 50, 350 150" stroke="#0D3B66" fill="none" stroke-width="3"/>
+    
+            <!-- Upper limit -->
+            <text x="60" y="45" font-size="16" font-family="Arial" fill="#F95738">Scientist</text>
+    
+            <!-- Lower limit -->
+            <text x="60" y="165" font-size="16" font-family="Arial" fill="#F95738">Analyst</text>
+    
+            <!-- Integrand -->
+            <text x="180" y="100" font-size="20" font-family="Arial" fill="#3F88C5">Tech × dTech</text>
+          </svg>
+        </div>
       </div>
     </section>
+
 
     <!-- ====== Projects Section ====== -->
     <section id="projects" class="projects" data-aos="fade-up">
